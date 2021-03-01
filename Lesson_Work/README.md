@@ -15,7 +15,7 @@ Performing analysis on Kickstarter data to uncover trends
 Upon reviewing all Kickstarters for the subcategory "Plays" from the U.S., we find that there is a high rate of success as 62% of all campaigns ended successfully, including live, ongoing campaigns (see Exhibit 1.1).  Upon drilling down into the specifics of successes and failures, for U.S. Plays campaigns, we find some vast differences in the measures of central tendency.  Upon reviewing the measures of central tendency for goals and pledges for both Successful and Failed campaigns in the U.S. (see Exhibit 1.2 for Goal-related measurements or the "Descriptive Statistics" sheet within the included excel file for goal- and pledge-related data in one place), Failed campaigns' mean goal was $10,554 with a standard deviation of $21,968, while successful campaign goals averaged $5,049 with a standard deviation of $7,749.
 </p>
 <p>
-<img src="https://github.com/tc9993/kickstarter-analysis/blob/main/Theater_Plays_Outcomes.png?raw=true" alt="US Play Outcomes Pie Chart" height=50% width=50%><br>
+<img src="https://github.com/tc9993/kickstarter-analysis/blob/main/Lesson_Work/Theater_Plays_Outcomes.png?raw=true" height=50% width=50%><br>
 <b>Exhibit 1.1:</b> Pie Chart of all U.S. campaign outcomes of subcategory "Plays"
 </p>
 <p>
