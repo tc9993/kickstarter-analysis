@@ -29,7 +29,7 @@ Upon creating the pivot table, it was determined that a pivot chart in the form 
 <span style="font-size:10pt"><b>Exhibit 1.1:</b> Theater Outcomes Based on Launch Date</span>
 </p>
 <p> 
-In reviewing Exhibit 1.1, corroborated by the pivot table found within <a href="https://github.com/tc9993/kickstarter-challenge/blob/main/Kickstarter_Challenge.xlsx" target="_blank">the provided workbook</a>, on sheet "Theater Outcomes by Launch Date", May, followed by June, were the months in which:
+In reviewing Exhibit 1.1, corroborated by the pivot table found within <a href="https://github.com/tc9993/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx" target="_blank">the provided workbook</a>, on sheet "Theater Outcomes by Launch Date", May, followed by June, were the months in which:
   <ul>
     <li>The most campaigns were launched.</li>
     <li>The most campaigns had successful outcomes.</li>
@@ -49,7 +49,7 @@ Once filtered, it was then time to create a visual displaying the difference in 
   <span style="font-size:10pt"><b>Exhibit 2.1:</b> Play Outcomes Based on Goal</span>
 </p>
 <p>
-Upon reviewing Exhibit 2.1, backed up by the data found within <a href="https://github.com/tc9993/kickstarter-challenge/blob/main/Kickstarter_Challenge.xlsx" target="_blank">the provided workbook (also linked above)</a>, on sheet "Outcomes Based on Goals" you see a an inverse relationship wherein the percentage of successful campaigns decreases as the goal increases, up to the 25,000 to 29,999 range.  Inversely, failed campaigns trend upwards along with campaign goal.  Given that there were no canceled campaigns and the sum of both successful and failed campaigns must be 100, it makes complete sense to see the two lines react inversely to their counterpart.
+Upon reviewing Exhibit 2.1, backed up by the data found within <a href="https://github.com/tc9993/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx" target="_blank">the provided workbook (also linked above)</a>, on sheet "Outcomes Based on Goals" you see a an inverse relationship wherein the percentage of successful campaigns decreases as the goal increases, up to the 25,000 to 29,999 range.  Inversely, failed campaigns trend upwards along with campaign goal.  Given that there were no canceled campaigns and the sum of both successful and failed campaigns must be 100, it makes complete sense to see the two lines react inversely to their counterpart.
 </p>
 
 <h3>Challenges and Difficulties Encountered</h3>
