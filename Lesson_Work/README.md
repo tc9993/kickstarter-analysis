@@ -14,14 +14,14 @@ Performing analysis on Kickstarter data to uncover trends
 <p>
 Upon reviewing all Kickstarters for the subcategory "Plays" from the U.S., we find that there is a high rate of success as 62% of all campaigns ended successfully, including live, ongoing campaigns (see Exhibit 1.1).  Upon drilling down into the specifics of successes and failures, for U.S. Plays campaigns, we find some vast differences in the measures of central tendency.  Upon reviewing the measures of central tendency for goals and pledges for both Successful and Failed campaigns in the U.S. (see Exhibit 1.2 for Goal-related measurements or the "Descriptive Statistics" sheet within the included excel file for goal- and pledge-related data in one place), Failed campaigns' mean goal was $10,554 with a standard deviation of $21,968, while successful campaign goals averaged $5,049 with a standard deviation of $7,749.
 </p>
-<p>
+<p align="center">
 <img src="https://github.com/tc9993/kickstarter-analysis/blob/main/Lesson_Work/Theater_Plays_Outcomes.png?raw=true" height=50% width=50%><br>
 <b>Exhibit 1.1:</b> Pie Chart of all U.S. campaign outcomes of subcategory "Plays"
 </p>
 <p>
 Continuinig with analysis of the measurements of central tendency, you will find that both successful and failed campaign average goals are just slightly greater than the upper quartile of their respective outcome's, this tells us that more than 75% of all campaign goals, despite their outcome, are less than the mean goal and thus that the data is skewed to the right and so some extremely high campaign goals are prevalent in measuring these central tendencies.
 </p>
-<p>
+<p align="center">
   <table style="width:100%">
   <tr>
     <th></th>
@@ -74,15 +74,15 @@ Continuinig with analysis of the measurements of central tendency, you will find
   <p>
   In taking a look at campaigns in Great Britain (GB) for musicals, we initially find that successful campaigns, by percentage, come in at about 39% when including "Canceled" campaigns along with successful and failed (see Exhibit 2.1).  Though the data sample in this case is much smaller than the U.S. Plays data sample was. 
 </p>
-  <p>
-  <img src="https://github.com/tc9993/kickstarter-analysis/blob/main/GB_Musical_Outcomes.png?raw=true" alt="GB Musical Outcomes Pie Chart" height=50% width=50%><br>
+  <p align="center">
+  <img src="https://github.com/tc9993/kickstarter-analysis/blob/main/Lesson_Work/GB_Musical_Outcomes.png?raw=true" height=50% width=50%><br>
 <b>Exhibit 2.1:</b> Pie Chart of all GB campaign outcomes of subcategory "Musical"
   </p>
   <p>
   Looking at a box and whisker plot (see Exhibit 2.2) we can see that the mean goal of all GB Musicals is right at £4,000, while the median goal is much lower at £2,000.  Right away this tells us that there are outliers skewing this data sample as seen on the chart at about the £15,000 mark.  Half of all campaign goals are £2,000 or less.  This £2,000 mark is still greater than the upper quartile of all GB Musical campaign pledges, £1,664, where the mean was £1,151.
   </p>
-  <p>
-<img src="https://github.com/tc9993/kickstarter-analysis/blob/main/GB_Musicals_BW_Plot.png?raw=true" alt="GB Musicals Box and Whisker Plot" height=57% width=57%><br>
+  <p align="center">
+<img src="https://github.com/tc9993/kickstarter-analysis/blob/main/Lesson_Work/GB_Musicals_BW_Plot.png?raw=true" alt="GB Musicals Box and Whisker Plot" height=57% width=57%><br>
   <b>Exhibit 2.2:</b> Box and Whisker Plot of GB Musical Campagins
   </p>
   <p>
