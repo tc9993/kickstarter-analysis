@@ -25,7 +25,7 @@ With the data, a pivot table was created using "outcomes" for columns, "Parent C
 Upon creating the pivot table, it was determined that a pivot chart in the form of a line graph with markers would be a beneficial visual to assist in analysis (see Exhibit 1.1).
 </p>
 <p align="center">
-<img src="https://github.com/tc9993/kickstarter-challenge/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true" alt="Theater Outcomes Based on Launch Date" height=66% width=66%><br>
+<img src="https://github.com/tc9993/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true" alt="Theater Outcomes Based on Launch Date" height=66% width=66%><br>
 <span style="font-size:10pt"><b>Exhibit 1.1:</b> Theater Outcomes Based on Launch Date</span>
 </p>
 <p> 
@@ -45,7 +45,7 @@ To evaluate the impact of outcomes based on goals, the first thing to do was def
 Once filtered, it was then time to create a visual displaying the difference in total successes, failures, and cancelations based on those goals (see Exhibit 2.1).  In this case using percentages for the Y-axis, as opposed to totals, was determined to be more relevant due to the vast difference in totals across goal ranges (i.e. There were 534 campaigns in the 1,000 to 4,999 range but only 1 campaign with a goal between 45,000 and 49,9999) which would have affected the visual interpretation of the data.
 </p>
 <p align="center">
-  <img src="https://github.com/tc9993/kickstarter-challenge/blob/main/Resources/Outcomes_vs_Goals.png?raw=true" alt="Play Outcomes Based on Goal" height=66% width=66%><br>
+  <img src="https://github.com/tc9993/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true" alt="Play Outcomes Based on Goal" height=66% width=66%><br>
   <span style="font-size:10pt"><b>Exhibit 2.1:</b> Play Outcomes Based on Goal</span>
 </p>
 <p>
