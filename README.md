@@ -10,8 +10,8 @@
 <p>
   The purpose of this project is to determine two items:
   <ol>
-    <li>The effect, if any, that campaign launch date has on theater campaign outcomes.</li>
-    <li>The effect, if any, that campaign goal amounts have on play campaign outcomes.</li>
+    <li>The relationship, if any, that campaign launch date and theater campaign outcomes have.</li>
+    <li>The relationship, if any, that campaign goal amounts and play campaign outcomes have.</li>
 </p>
 
 
